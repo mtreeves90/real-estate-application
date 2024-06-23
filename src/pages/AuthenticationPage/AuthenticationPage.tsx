@@ -1,4 +1,4 @@
-import { Button, Input } from "@nextui-org/react";
+import { Input } from "@nextui-org/react";
 import { useState } from "react";
 
 export const AuthenticationPage = () => {
